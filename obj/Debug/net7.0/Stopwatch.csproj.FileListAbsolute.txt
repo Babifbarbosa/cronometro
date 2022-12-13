@@ -1,0 +1,15 @@
+/Users/felipebraga/Desktop/Stopwatch/bin/Debug/net7.0/Stopwatch
+/Users/felipebraga/Desktop/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/Users/felipebraga/Desktop/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/Users/felipebraga/Desktop/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/Users/felipebraga/Desktop/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/Users/felipebraga/Desktop/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll
